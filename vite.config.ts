@@ -20,6 +20,6 @@ export default defineConfig({
       },
     },
   },
-  base: '/nach-barber-new/',
+  base: '/-/',
   
 })

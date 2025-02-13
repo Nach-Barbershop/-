@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
             <section id='contacto' className="bg-neutral-950 w-screen max-w-[1400px] flex-col align-center flex justify-center py-10 md:flex-row md:justify-between md:items-start md:px-10">
                 <div className="text-white p-2 flex align-center flex-col justify-center text-center">
                     <img
-                        src="/nach-barber-new/media/Logo.png"
+                        src="/-/media/Logo.png"
                         alt="Logo"
                         className="h-25 mb-2 img-shadow mx-auto"
                     />
@@ -19,10 +19,10 @@ const Footer: React.FC = () => {
                     <h2 className="text-3xl font-bold mb-4 text-white text-center">Contacto</h2>
                     <div className="grid grid-cols-2 gap-4">
                         <a href="https://www.instagram.com/nachbarbershop/" target="_blank">
-                            <img src="/nach-barber-new/media/instagram.png" alt="" className="h-13"/>
+                            <img src="/-/media/instagram.png" alt="" className="h-13"/>
                         </a>
                         <a href="https://wa.me/5491155862570" target="_blank">
-                            <img src="/nach-barber-new/media/whatsapp.png" alt="" className="h-13 rounded-[12px]"/>
+                            <img src="/-/media/whatsapp.png" alt="" className="h-13 rounded-[12px]"/>
                         </a>
                     </div>
                 </div>

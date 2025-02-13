@@ -9,25 +9,25 @@ const Services: React.FC<ServicesProps> = ({ currentPage }) => {
     const cards = [
         {
             id: 'CortesDeCabello',
-            image: '/nach-barber-new/media/Cortes/corte-12.jpg',
+            image: '/-/media/Cortes/corte-12.jpg',
             text: 'CORTES DE CABELLO',
             link: '/CortesDeCabello',
         },
         {
             id: 'CortesBarba',
-            image: '/nach-barber-new/media/Barbas/barba-1.jpeg',
+            image: '/-/media/Barbas/barba-1.jpeg',
             text: 'ESTILOS DE BARBA',
             link: '/CortesBarba',
         },
         {
             id: 'DiseñosCabello',
-            image: '/nach-barber-new/media/Diseños/diseño-1.jpg',
+            image: '/-/media/Diseños/diseño-1.jpg',
             text: 'GALERÍA DE DISEÑOS',
             link: '/DiseñosCabello',
         },
         {
             id: 'Productos',
-            image: '/nach-barber-new/media/Productos/productos7.jpeg',
+            image: '/-/media/Productos/productos7.jpeg',
             text: 'PRODUCTOS',
             link: '/Productos',
         },
@@ -40,7 +40,7 @@ const Services: React.FC<ServicesProps> = ({ currentPage }) => {
             : [
                     {
                         id: 'Inicio',
-                        image: '/nach-barber-new/media/background.jpg',
+                        image: '/-/media/background.jpg',
                         text: 'INICIO',
                         link: '/#inicio',
                     },
